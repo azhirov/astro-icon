@@ -1,5 +1,11 @@
 # astro-icon
 
+## 1.2.0
+
+### Minor Changes
+
+- [#1](https://github.com/azhirov/astro-icon/pull/1) [`1cec40deb0f357b5d79fdc9af98a81d8911d54b0`](https://github.com/azhirov/astro-icon/commit/1cec40deb0f357b5d79fdc9af98a81d8911d54b0) Thanks [@azhirov](https://github.com/azhirov)! - feat: add `symbol` prop to `<Icon>` for `<use>` integration in UI frameworks
+
 ## 1.1.1
 
 ### Patch Changes

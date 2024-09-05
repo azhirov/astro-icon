@@ -1,5 +1,11 @@
 # astro-icon
 
+## 1.2.1
+
+### Patch Changes
+
+- fix: always include `viewBox` attribute in `symbol` element
+
 ## 1.2.0
 
 ### Minor Changes

@@ -1,6 +1,6 @@
 {
-  "name": "astro-icon",
-  "version": "1.1.1",
+  "name": "@azhirov/astro-icon",
+  "version": "1.2.1",
   "type": "module",
   "types": "./dist/index.d.ts",
   "exports": {
@@ -38,7 +38,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/natemoo-re/astro-icon.git",
+    "url": "git+https://github.com/azhirov/astro-icon.git",
     "directory": "packages/core"
   },
   "license": "MIT",
